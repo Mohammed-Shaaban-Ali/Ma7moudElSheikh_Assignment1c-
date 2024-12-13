@@ -1,0 +1,14 @@
+F:\course\visual\c#Session1\ASSIGNMENT\obj\Debug\net8.0\ASSIGNMENT.GeneratedMSBuildEditorConfig.editorconfig
+F:\course\visual\c#Session1\ASSIGNMENT\obj\Debug\net8.0\ASSIGNMENT.AssemblyInfoInputs.cache
+F:\course\visual\c#Session1\ASSIGNMENT\obj\Debug\net8.0\ASSIGNMENT.AssemblyInfo.cs
+F:\course\visual\c#Session1\ASSIGNMENT\obj\Debug\net8.0\ASSIGNMENT.csproj.CoreCompileInputs.cache
+F:\course\visual\c#Session1\ASSIGNMENT\bin\Debug\net8.0\ASSIGNMENT.exe
+F:\course\visual\c#Session1\ASSIGNMENT\bin\Debug\net8.0\ASSIGNMENT.deps.json
+F:\course\visual\c#Session1\ASSIGNMENT\bin\Debug\net8.0\ASSIGNMENT.runtimeconfig.json
+F:\course\visual\c#Session1\ASSIGNMENT\bin\Debug\net8.0\ASSIGNMENT.dll
+F:\course\visual\c#Session1\ASSIGNMENT\bin\Debug\net8.0\ASSIGNMENT.pdb
+F:\course\visual\c#Session1\ASSIGNMENT\obj\Debug\net8.0\ASSIGNMENT.dll
+F:\course\visual\c#Session1\ASSIGNMENT\obj\Debug\net8.0\refint\ASSIGNMENT.dll
+F:\course\visual\c#Session1\ASSIGNMENT\obj\Debug\net8.0\ASSIGNMENT.pdb
+F:\course\visual\c#Session1\ASSIGNMENT\obj\Debug\net8.0\ASSIGNMENT.genruntimeconfig.cache
+F:\course\visual\c#Session1\ASSIGNMENT\obj\Debug\net8.0\ref\ASSIGNMENT.dll

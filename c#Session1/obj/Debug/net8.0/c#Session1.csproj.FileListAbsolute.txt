@@ -1,0 +1,14 @@
+F:\course\visual\c#Session1\c#Session1\obj\Debug\net8.0\c#Session1.GeneratedMSBuildEditorConfig.editorconfig
+F:\course\visual\c#Session1\c#Session1\obj\Debug\net8.0\c#Session1.AssemblyInfoInputs.cache
+F:\course\visual\c#Session1\c#Session1\obj\Debug\net8.0\c#Session1.AssemblyInfo.cs
+F:\course\visual\c#Session1\c#Session1\obj\Debug\net8.0\c#Session1.csproj.CoreCompileInputs.cache
+F:\course\visual\c#Session1\c#Session1\bin\Debug\net8.0\c#Session1.exe
+F:\course\visual\c#Session1\c#Session1\bin\Debug\net8.0\c#Session1.deps.json
+F:\course\visual\c#Session1\c#Session1\bin\Debug\net8.0\c#Session1.runtimeconfig.json
+F:\course\visual\c#Session1\c#Session1\bin\Debug\net8.0\c#Session1.dll
+F:\course\visual\c#Session1\c#Session1\bin\Debug\net8.0\c#Session1.pdb
+F:\course\visual\c#Session1\c#Session1\obj\Debug\net8.0\c#Session1.dll
+F:\course\visual\c#Session1\c#Session1\obj\Debug\net8.0\refint\c#Session1.dll
+F:\course\visual\c#Session1\c#Session1\obj\Debug\net8.0\c#Session1.pdb
+F:\course\visual\c#Session1\c#Session1\obj\Debug\net8.0\c#Session1.genruntimeconfig.cache
+F:\course\visual\c#Session1\c#Session1\obj\Debug\net8.0\ref\c#Session1.dll
